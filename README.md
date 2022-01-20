@@ -28,7 +28,7 @@ https://github.com/ybreff/gatewayweb.git
 
 
 ## DB Location
-- mongodb+srv://gatewaytest:$gatewaytest@cluster0.jbpgb.mongodb.net/gatewaytest_db?retryWrites=true&w=majority
+- mongodb+srv://gatewaytest:gatewaytest@cluster0.jbpgb.mongodb.net/gatewaytest_db?retryWrites=true&w=majority
 
 ## Services availables
 - Retrieve all gateways
